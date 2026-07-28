@@ -11,31 +11,31 @@
   },
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
-    "@next/third-parties": "^16.2.12",
+    "@next/third-parties": "^16.2.7",
     "axios": "^1.17.0",
     "lottie-react": "^2.4.1",
-    "next": "16.2.12",
-    "nodemailer": "^9.0.3",
+    "next": "16.2.7",
+    "nodemailer": "^8.0.10",
     "react": "^19.2.7",
     "react-dom": "^19.2.7",
     "react-fast-marquee": "^1.6.5",
     "react-google-recaptcha": "^3.1.0",
     "react-icons": "^5.6.0",
     "react-toastify": "^11.1.0",
-    "sharp": "^0.35.3"
+    "sharp": "^0.34.5"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.3.0",
     "autoprefixer": "latest",
-    "eslint": "^10.8.0",
-    "eslint-config-next": "^0.2.4",
-    "postcss": "^8.5.23",
+    "eslint": "^9.20.0",
+    "eslint-config-next": "^16.2.7",
+    "postcss": "latest",
     "sass": "^1.100.0",
     "tailwindcss": "latest"
   },
   "overrides": {
-    "postcss": "^8.5.23",
-    "sharp": "^0.35.3"
+    "postcss": "latest",
+    "sharp": "^0.34.5"
   },
   "allowScripts": {
     "@parcel/watcher@2.5.6": true
