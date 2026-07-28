@@ -1,9 +1,11 @@
+import { contactEmail } from '../contact-email';
+
 export const personalData = {
   name: "Hoang Quang Minh",
   profile: '/profile.png',
   designation: "Software Developer",
   description: "My name is Hoang Quang Minh. I am an enthusiastic programmer and data analyst in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on Java and PHP, and I love to do most of the things using Java and PHP. I am available for any kind of job opportunity that suits my skills and interests.",
-  email: 'minhhq0110@gmail.com',
+  email: contactEmail,
   phone: '+84869223595',
   address: 'La Xuan Oai, Tang Nhon Phu A, Thu Duc, HCMC, Vietnam',
   github: 'https://github.com/minh7709',

@@ -1,5 +1,7 @@
+import { contactEmail } from '../contact-email';
+
 export const contactsData = {
-    email: 'minhhq0110@gmail.com',
+    email: contactEmail,
     phone: '+84869223595',
     address: 'La Xuan Oai, Tang Nhon Phu A, Thu Duc, HCMC, Vietnam',
     github: 'https://github.com/minh7709',
