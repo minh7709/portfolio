@@ -9,8 +9,8 @@ export const personalData = {
   phone: '+84869223595',
   address: 'La Xuan Oai, Tang Nhon Phu A, Thu Duc, HCMC, Vietnam',
   github: 'https://github.com/minh7709',
-  linkedIn: process.env.LINKEDIN_URL || 'https://www.linkedin.com/in/minh-hoang-1ba906237/',
+  linkedIn: process.env.NEXT_PUBLIC_LINKEDIN_URL || 'https://www.linkedin.com/in/minh-hoang-1ba906237/',
   leetcode: "https://leetcode.com/u/MdkgksszRo/",
   devUsername: "minh7709",
-  resume: process.env.RESUME_URL || 'https://drive.google.com/file/d/1s6AxlQDOYPO4xUigdy8W17aJB8xzV2Am/view?usp=sharing'
+  resume: process.env.NEXT_PUBLIC_RESUME_URL || 'https://drive.google.com/file/d/1s6AxlQDOYPO4xUigdy8W17aJB8xzV2Am/view?usp=sharing'
 }
