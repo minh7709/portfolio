@@ -30,7 +30,8 @@ function AboutSection() {
             height={280}
             alt="Profile"
             className="rounded-lg transition-all duration-1000 grayscale hover:grayscale-0 hover:scale-110 cursor-pointer"
-            style={{ width: 'auto', height: 'auto' }}
+            style={{ width: '50%', height: 'auto' }}
+            unoptimized
           />
         </div>
       </div>
